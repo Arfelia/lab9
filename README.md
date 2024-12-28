@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Quick start
+
+1. Clone the repository:
+   ```bash
+   git clone <https://github.com/Arfelia/lab9>
+   cd <lab9>
+2. Install the dependencies:
+   npm install
+3. Launch the project: 
+   npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
